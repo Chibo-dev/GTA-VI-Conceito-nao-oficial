@@ -1,0 +1,434 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-16T02:27:47.789Z",
+  "title": "Design System: GTA VI · A capa",
+  "extensions": {
+    "colorMeta": {
+      "gold": {
+        "role": "primary",
+        "displayName": "Ouro Vice City",
+        "canonical": "oklch(84.9% 0.148 81)",
+        "tonalRamp": [
+          "oklch(15% 0.090 81)",
+          "oklch(26% 0.148 81)",
+          "oklch(38% 0.148 81)",
+          "oklch(50% 0.148 81)",
+          "oklch(62% 0.148 81)",
+          "oklch(74% 0.148 81)",
+          "oklch(85% 0.148 81)",
+          "oklch(95% 0.074 81)"
+        ]
+      },
+      "sign": {
+        "role": "secondary",
+        "displayName": "Verde Placa de Rodovia",
+        "canonical": "oklch(43.4% 0.074 183)",
+        "tonalRamp": [
+          "oklch(15% 0.074 183)",
+          "oklch(26% 0.074 183)",
+          "oklch(38% 0.074 183)",
+          "oklch(50% 0.074 183)",
+          "oklch(62% 0.074 183)",
+          "oklch(74% 0.074 183)",
+          "oklch(85% 0.074 183)",
+          "oklch(95% 0.037 183)"
+        ]
+      },
+      "tab": {
+        "role": "secondary",
+        "displayName": "Amarelo Etiqueta",
+        "canonical": "oklch(87.9% 0.163 91)",
+        "tonalRamp": [
+          "oklch(15% 0.098 91)",
+          "oklch(26% 0.163 91)",
+          "oklch(38% 0.163 91)",
+          "oklch(50% 0.163 91)",
+          "oklch(62% 0.163 91)",
+          "oklch(74% 0.163 91)",
+          "oklch(85% 0.163 91)",
+          "oklch(95% 0.082 91)"
+        ]
+      },
+      "neon-pink": {
+        "role": "tertiary",
+        "displayName": "Rosa Neon",
+        "canonical": "oklch(68.2% 0.240 354)",
+        "tonalRamp": [
+          "oklch(15% 0.144 354)",
+          "oklch(26% 0.240 354)",
+          "oklch(38% 0.240 354)",
+          "oklch(50% 0.240 354)",
+          "oklch(62% 0.240 354)",
+          "oklch(74% 0.240 354)",
+          "oklch(85% 0.240 354)",
+          "oklch(95% 0.120 354)"
+        ]
+      },
+      "pink": {
+        "role": "tertiary",
+        "displayName": "Rosa Estrela",
+        "canonical": "oklch(68.5% 0.218 4)",
+        "tonalRamp": [
+          "oklch(15% 0.131 4)",
+          "oklch(26% 0.218 4)",
+          "oklch(38% 0.218 4)",
+          "oklch(50% 0.218 4)",
+          "oklch(62% 0.218 4)",
+          "oklch(74% 0.218 4)",
+          "oklch(85% 0.218 4)",
+          "oklch(95% 0.109 4)"
+        ]
+      },
+      "gutter": {
+        "role": "neutral",
+        "displayName": "Friso",
+        "canonical": "oklch(19.0% 0.069 297)",
+        "tonalRamp": [
+          "oklch(15% 0.069 297)",
+          "oklch(26% 0.069 297)",
+          "oklch(38% 0.069 297)",
+          "oklch(50% 0.069 297)",
+          "oklch(62% 0.069 297)",
+          "oklch(74% 0.069 297)",
+          "oklch(85% 0.069 297)",
+          "oklch(95% 0.034 297)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta",
+        "canonical": "oklch(16.1% 0.050 303)",
+        "tonalRamp": [
+          "oklch(15% 0.050 303)",
+          "oklch(26% 0.050 303)",
+          "oklch(38% 0.050 303)",
+          "oklch(50% 0.050 303)",
+          "oklch(62% 0.050 303)",
+          "oklch(74% 0.050 303)",
+          "oklch(85% 0.050 303)",
+          "oklch(95% 0.025 303)"
+        ]
+      },
+      "plum": {
+        "role": "neutral",
+        "displayName": "Ameixa",
+        "canonical": "oklch(21.3% 0.058 297)",
+        "tonalRamp": [
+          "oklch(15% 0.058 297)",
+          "oklch(26% 0.058 297)",
+          "oklch(38% 0.058 297)",
+          "oklch(50% 0.058 297)",
+          "oklch(62% 0.058 297)",
+          "oklch(74% 0.058 297)",
+          "oklch(85% 0.058 297)",
+          "oklch(95% 0.029 297)"
+        ]
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Creme",
+        "canonical": "oklch(96.4% 0.032 78)",
+        "tonalRamp": [
+          "oklch(15% 0.032 78)",
+          "oklch(26% 0.032 78)",
+          "oklch(38% 0.032 78)",
+          "oklch(50% 0.032 78)",
+          "oklch(62% 0.032 78)",
+          "oklch(74% 0.032 78)",
+          "oklch(85% 0.032 78)",
+          "oklch(95% 0.016 78)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "Branco",
+        "canonical": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "oklch(15% 0.000 90)",
+          "oklch(26% 0.000 90)",
+          "oklch(38% 0.000 90)",
+          "oklch(50% 0.000 90)",
+          "oklch(62% 0.000 90)",
+          "oklch(74% 0.000 90)",
+          "oklch(85% 0.000 90)",
+          "oklch(95% 0.000 90)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display-neon": {
+        "displayName": "Display neon",
+        "purpose": "A palavra \"Leonida\", uma vez só, branca com halo rosa. Sempre itálico e caixa alta."
+      },
+      "display": {
+        "displayName": "Display",
+        "purpose": "Nome do personagem em tela cheia no elenco, branco, sem tarja. Sempre itálico e caixa alta."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Manchetes em tarja (6,6 a 11,5rem na build). Sempre itálico e caixa alta."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Nomes de Jason e Lucia, em duas linhas. Sempre itálico e caixa alta."
+      },
+      "caption-plate": {
+        "displayName": "Legenda em tarja",
+        "purpose": "Nome de pôster e de item sobre ameixa; faixa do elenco em ouro (2,3 a 2,5rem)."
+      },
+      "sign-numeral": {
+        "displayName": "Numeral da placa",
+        "purpose": "Dígitos da contagem: 900 a 16,5rem na placa final, 800 a 7,6rem no painel da capa."
+      },
+      "sign-text": {
+        "displayName": "Texto da placa",
+        "purpose": "Destino, \"Faltam\", data; caixa mista, 2,7 a 5,2rem."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Uma ou duas frases por capítulo, 1,42 a 1,85rem, largura máxima de 35 a 46rem."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Botão e etiquetas, caixa alta, 0,07 a 0,09em."
+      },
+      "script": {
+        "displayName": "Script",
+        "purpose": "Só \"Bem-vindo a\", girado -4 graus, acima de \"Leonida\"."
+      }
+    },
+    "shadows": [
+      {
+        "name": "botao",
+        "value": "0 0.8rem 1.4rem -0.7rem rgba(18, 7, 31, 0.7)",
+        "purpose": "Botão \"Reserve agora\"; o botão de reproduzir usa 0 1rem 1.6rem -0.6rem rgba(6, 2, 14, 0.8)."
+      },
+      {
+        "name": "foto-solta",
+        "value": "0 1.6rem 2.2rem -1rem rgba(8, 3, 16, 0.75)",
+        "purpose": "Fotos pequenas com moldura creme sobre a arte."
+      },
+      {
+        "name": "poster",
+        "value": "0 2.2rem 2.8rem -1.4rem rgba(6, 2, 14, 0.85)",
+        "purpose": "Pôsteres de trailer sobre o friso."
+      },
+      {
+        "name": "logotipo",
+        "value": "drop-shadow(0 1.4rem 1.5rem rgba(22, 6, 44, 0.6))",
+        "purpose": "Logotipo oficial sobre o encontro dos painéis da capa (filter)."
+      },
+      {
+        "name": "neon",
+        "value": "drop-shadow(0 0 1rem #ff3fa4) drop-shadow(0 0 3.4rem rgba(255, 63, 164, 0.8))",
+        "purpose": "Halo do letreiro de Leonida (filter); o script usa text-shadow 0 0 0.6rem e 0 0 2rem."
+      },
+      {
+        "name": "veu-de-texto",
+        "value": "linear-gradient(0deg, rgba(18, 7, 31, 0.94) 0%, rgba(18, 7, 31, 0.5) 30%, rgba(18, 7, 31, 0) 58%)",
+        "purpose": "Véu de tinta no pé das imagens que recebem texto branco sem tarja (background, não sombra)."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Token --ease: hover da marca, do pôster e balanço da seta."
+      },
+      {
+        "name": "scroll-scrub",
+        "value": "ScrollTrigger scrub 0.55; Lenis lerp 0.085, wheelMultiplier 0.9",
+        "purpose": "A rolagem avança uma linha do tempo de 12,7 unidades (1 unidade = 100vh) sobre um palco fixo."
+      },
+      {
+        "name": "entrada",
+        "value": "power3.out / power2.out, 0.2 a 0.5 unidade",
+        "purpose": "Entradas de capítulo: tarjas subindo, metades deslizando, pôsteres dados como cartas, painéis pelas bordas."
+      },
+      {
+        "name": "saida",
+        "value": "power2.in / power1.in, 0.15 a 0.75 unidade",
+        "purpose": "Saídas: painéis voando para fora, colunas escapando, pôsteres subindo."
+      },
+      {
+        "name": "carimbo",
+        "value": "back.out(2.2 a 2.6), 0.2 a 0.65",
+        "purpose": "Selo, logotipo, botão de reproduzir e botão da placa: o único efeito elástico."
+      },
+      {
+        "name": "batida",
+        "value": "power4.out 0.5s, escala 1.5 a 1, giro de 5 graus, stagger 0.085 a partir do centro",
+        "purpose": "Painéis da capa batendo na tela na abertura."
+      },
+      {
+        "name": "persiana",
+        "value": "mask linear-gradient em 8 faixas (12.5%), --p de 0 a 1, power2.inOut 0.3",
+        "purpose": "Troca de personagem no elenco, alternando vertical e horizontal, uma camada por personagem."
+      },
+      {
+        "name": "breathe",
+        "value": "scale(+0.12) em 9s, 12s e 15s, ease-in-out, alternate",
+        "purpose": "Respiração lenta das imagens dos painéis da capa."
+      },
+      {
+        "name": "nudge",
+        "value": "translateY(-0.2rem a 0.35rem), 1.5s, --ease, infinito",
+        "purpose": "Seta da placa da capa indicando a rolagem."
+      },
+      {
+        "name": "sheen",
+        "value": "translateX(680%) em 6s, cubic-bezier(0.6, 0, 0.3, 1), parado até 55%",
+        "purpose": "Brilho que varre a face da placa final."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "breathe, nudge e sheen desligados; splash e abertura puladas",
+        "purpose": "prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": []
+  },
+  "components": [
+    {
+      "name": "Botão Reserve agora",
+      "kind": "button",
+      "refersTo": "cta",
+      "description": "Ação primária em pílula ouro, fixa no canto superior direito durante toda a rolagem.",
+      "html": "<a class=\"ds-cta\" href=\"#\">Reserve agora</a>",
+      "css": ".ds-cta { display: inline-flex; align-items: center; gap: 0.7rem; padding: 1.02rem 1.7rem 0.92rem; border-radius: 999px; background: var(--gold, #ffc24b); color: var(--ink, #12071f); font: 800 1.02rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.09em; text-transform: uppercase; text-decoration: none; white-space: nowrap; box-shadow: 0 0.8rem 1.4rem -0.7rem rgba(18, 7, 31, 0.7); transition: background-color 0.2s; } .ds-cta:hover { background: #fff; } .ds-cta:focus-visible { outline: 0.2rem solid var(--gold, #ffc24b); outline-offset: 0.2rem; }"
+    },
+    {
+      "name": "Botão da placa",
+      "kind": "button",
+      "refersTo": "cta-sign",
+      "description": "Variante sobre a placa verde: amarelo etiqueta, maior, com a seta de saída.",
+      "html": "<div class=\"ds-cta-sign-bg\"><a class=\"ds-cta-sign\" href=\"#\">Reserve agora<svg viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" aria-hidden=\"true\"><path d=\"M10 38 37 11M16 10h22v22\"/></svg></a></div>",
+      "css": ".ds-cta-sign-bg { display: inline-block; padding: 2rem; background: var(--sign, #0b5e55); } .ds-cta-sign { display: inline-flex; align-items: center; gap: 0.7rem; padding: 1.45rem 2.6rem 1.3rem; border-radius: 999px; background: var(--tab, #ffd23c); color: var(--ink, #12071f); font: 800 1.8rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.05em; text-transform: uppercase; text-decoration: none; white-space: nowrap; box-shadow: 0 0.8rem 1.4rem -0.7rem rgba(18, 7, 31, 0.7); transition: background-color 0.2s; } .ds-cta-sign svg { width: 1.5rem; height: 1.5rem; } .ds-cta-sign:hover { background: #fff; } .ds-cta-sign:focus-visible { outline: 0.2rem solid var(--gold, #ffc24b); outline-offset: 0.2rem; }"
+    },
+    {
+      "name": "Tarja de manchete",
+      "kind": "custom",
+      "refersTo": "plate-plum",
+      "description": "Manchete em faixas opacas justas ao texto: ameixa com creme, depois ouro com ameixa; com a pílula de subtítulo abaixo.",
+      "html": "<div class=\"ds-plate\"><h2 class=\"ds-plate-head\"><span>Um serviço simples</span><span>deu errado.</span></h2><p class=\"ds-plate-sub\">Vice City, EUA. Agora Jason e Lucia têm o estado inteiro de Leonida atrás deles.</p></div>",
+      "css": ".ds-plate { font-size: 0.5rem; } .ds-plate-head { display: flex; flex-direction: column; align-items: flex-start; gap: 0.5rem; margin: 0; font: italic 900 10.4em/0.86 var(--f-display, 'Barlow Condensed', 'Arial Narrow', sans-serif); text-transform: uppercase; letter-spacing: -0.01em; } .ds-plate-head span { padding: 0.07em 0.22em 0.03em 0.16em; background: var(--plum, #1c1230); color: var(--cream, #fff1dc); } .ds-plate-head span:nth-child(2) { background: var(--gold, #ffc24b); color: var(--plum, #1c1230); } .ds-plate-sub { display: inline-block; margin: 1.4rem 0 0; padding: 0.72rem 1.5rem 0.62rem; border-radius: 0.7rem; background: var(--plum, #1c1230); font: 500 1.75rem/1.2 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); color: #fbeefc; }"
+    },
+    {
+      "name": "Legenda em tarja",
+      "kind": "chip",
+      "refersTo": "caption-plate",
+      "description": "Nome curto de um item sobre ameixa, canto vivo; a etiqueta amarela é a peça da placa de rodovia.",
+      "html": "<p class=\"ds-caption\"><span class=\"ds-caption-tab\">Bônus de reserva</span><span>Pacote Vintage Vice City</span></p>",
+      "css": ".ds-caption { display: flex; flex-direction: column; align-items: flex-start; gap: 0.4rem; margin: 0; } .ds-caption span { padding: 0.5rem 1rem 0.36rem; background: var(--plum, #1c1230); color: var(--cream, #fff1dc); font: italic 900 2.3rem/1 var(--f-display, 'Barlow Condensed', 'Arial Narrow', sans-serif); text-transform: uppercase; letter-spacing: 0.01em; white-space: nowrap; } .ds-caption .ds-caption-tab { padding: 0.5rem 0.9rem 0.42rem; background: var(--tab, #ffd23c); color: var(--ink, #12071f); font: 800 1.05rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.08em; }"
+    },
+    {
+      "name": "Placa de rodovia",
+      "kind": "custom",
+      "refersTo": "sign",
+      "description": "A contagem regressiva: verde de placa, borda branca interna arredondada, Overpass 800 branco, etiqueta amarela.",
+      "html": "<div class=\"ds-sign\"><span class=\"ds-sign-word\">Faltam</span><span class=\"ds-sign-dest\"><svg viewBox=\"0 0 48 48\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"square\" stroke-linejoin=\"miter\" aria-hidden=\"true\"><path d=\"M24 5v34M9 25l15 15 15-15\"/></svg>Vice City</span><div class=\"ds-sign-cd\"><div><b>03</b><i>dias</i></div><div><b>00</b><i>horas</i></div><div><b>37</b><i>min</i></div><div><b>42</b><i>seg</i></div></div><p class=\"ds-sign-tab\">19 nov 2026 · 0h de Brasília</p></div>",
+      "css": ".ds-sign { position: relative; width: 50rem; height: 26rem; background: var(--sign, #0b5e55); color: #fff; font-family: var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); font-weight: 800; } .ds-sign::before { content: ''; position: absolute; inset: 1.3rem; border: 0.4rem solid #fff; border-radius: 1.4rem; pointer-events: none; } .ds-sign-word { position: absolute; left: 3.9rem; top: 3.1rem; font-size: 2.7rem; line-height: 1; letter-spacing: -0.01em; } .ds-sign-dest { position: absolute; right: 3.6rem; top: 3.1rem; display: flex; align-items: center; gap: 0.8rem; font-size: 2.7rem; line-height: 1; letter-spacing: -0.01em; white-space: nowrap; } .ds-sign-dest svg { width: 2.2rem; height: 2.2rem; } .ds-sign-cd { position: absolute; left: 3.8rem; right: 3.8rem; top: 7.7rem; display: flex; justify-content: space-between; font-size: 7.6rem; line-height: 1; letter-spacing: -0.01em; } .ds-sign-cd div { display: flex; flex-direction: column; align-items: center; gap: 0.3rem; } .ds-sign-cd b { font-weight: 800; } .ds-sign-cd i { font: 700 1.8rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.14em; text-transform: uppercase; } .ds-sign-tab { position: absolute; right: 3.8rem; bottom: 3rem; margin: 0; padding: 0.7rem 1.2rem 0.6rem; border-radius: 0.5rem; background: var(--tab, #ffd23c); color: var(--ink, #12071f); font: 800 1.12rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.07em; text-transform: uppercase; white-space: nowrap; }"
+    },
+    {
+      "name": "Pôster de trailer",
+      "kind": "card",
+      "refersTo": "caption-plate",
+      "description": "Objeto solto: moldura creme, canto vivo, sombra para baixo, leve giro, botão de reproduzir em ouro e legenda em tarja vazando da moldura.",
+      "html": "<a class=\"ds-poster\" href=\"#\"><span class=\"ds-poster-art\"></span><span class=\"ds-poster-play\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M7 4.2v15.6L20 12z\"/></svg></span><span class=\"ds-poster-name\">1º trailer</span></a>",
+      "css": ".ds-poster { position: relative; display: block; width: 24.6rem; margin: 2rem; transform: rotate(-2.2deg); text-decoration: none; } .ds-poster-art { display: block; width: 100%; aspect-ratio: 27 / 40; background: var(--gutter, #180a2e); border: 0.5rem solid var(--cream, #fff1dc); box-shadow: 0 2.2rem 2.8rem -1.4rem rgba(6, 2, 14, 0.85); transition: transform 0.4s var(--ease, cubic-bezier(0.16, 1, 0.3, 1)); } .ds-poster:hover .ds-poster-art { transform: translateY(-0.8rem); } .ds-poster:focus-visible { outline: 0.2rem solid var(--gold, #ffc24b); outline-offset: 0.2rem; } .ds-poster-play { position: absolute; left: 50%; top: 42%; width: 6.4rem; height: 6.4rem; margin: -3.2rem 0 0 -3.2rem; display: grid; place-items: center; border-radius: 50%; background: var(--gold, #ffc24b); box-shadow: 0 1rem 1.6rem -0.6rem rgba(6, 2, 14, 0.8); } .ds-poster-play svg { width: 2.9rem; height: 2.9rem; margin-left: 0.3rem; fill: var(--plum, #1c1230); } .ds-poster-name { position: absolute; left: -0.6rem; bottom: 1.6rem; padding: 0.55rem 1.1rem 0.4rem; background: var(--plum, #1c1230); color: var(--cream, #fff1dc); font: italic 900 2.5rem/1 var(--f-display, 'Barlow Condensed', 'Arial Narrow', sans-serif); text-transform: uppercase; letter-spacing: 0.01em; white-space: nowrap; }"
+    },
+    {
+      "name": "Cabeçalho",
+      "kind": "nav",
+      "refersTo": "nav-home",
+      "description": "Só a marca à esquerda, numa base ameixa translúcida, e o botão primário à direita. O espaço da marca recebe o logotipo \"VI\" oficial.",
+      "html": "<header class=\"ds-nav\"><a class=\"ds-nav-home\" href=\"#\" aria-label=\"Início\"><span class=\"ds-nav-mark\"></span></a><a class=\"ds-nav-cta\" href=\"#\">Reserve agora</a></header>",
+      "css": ".ds-nav { display: flex; align-items: center; justify-content: space-between; padding: 1.5rem 2.5rem; background: var(--gutter, #180a2e); } .ds-nav-home { display: block; padding: 0.5rem 0.9rem; border-radius: 0.9rem; background: rgba(28, 18, 48, 0.86); transition: transform 0.3s var(--ease, cubic-bezier(0.16, 1, 0.3, 1)); } .ds-nav-home:hover { transform: rotate(-4deg) scale(1.06); } .ds-nav-mark { display: block; width: 4.6rem; aspect-ratio: 1160 / 900; } .ds-nav-cta { padding: 1.02rem 1.7rem 0.92rem; border-radius: 999px; background: var(--gold, #ffc24b); color: var(--ink, #12071f); font: 800 1.02rem/1 var(--f-sign, 'Overpass', 'Helvetica Neue', Arial, sans-serif); letter-spacing: 0.09em; text-transform: uppercase; text-decoration: none; box-shadow: 0 0.8rem 1.4rem -0.7rem rgba(18, 7, 31, 0.7); transition: background-color 0.2s; } .ds-nav-cta:hover { background: #fff; } .ds-nav-home:focus-visible, .ds-nav-cta:focus-visible { outline: 0.2rem solid var(--gold, #ffc24b); outline-offset: 0.2rem; }"
+    },
+    {
+      "name": "Letreiro de neon",
+      "kind": "custom",
+      "refersTo": "display-neon",
+      "description": "Uso único: \"Bem-vindo a Leonida\", branco com halo rosa neon sobre fundo escurecido.",
+      "html": "<div class=\"ds-neon\"><p class=\"ds-neon-script\">Bem-vindo a</p><h2 class=\"ds-neon-word\">Leonida</h2></div>",
+      "css": ".ds-neon { display: grid; justify-items: center; padding: 3rem; background: var(--ink, #12071f); font-size: 0.4rem; } .ds-neon-script { margin: 0; font: 400 4.6em/1 var(--f-script, 'Yellowtail', cursive); color: #fff; text-shadow: 0 0 0.6rem var(--neon-pink, #ff3fa4), 0 0 2rem var(--neon-pink, #ff3fa4); transform: rotate(-4deg); } .ds-neon-word { margin: -0.4rem 0 0; padding: 0.6rem 2rem 0.2rem; font: italic 900 23em/0.84 var(--f-display, 'Barlow Condensed', 'Arial Narrow', sans-serif); text-transform: uppercase; letter-spacing: 0.01em; color: #fff; filter: drop-shadow(0 0 1rem var(--neon-pink, #ff3fa4)) drop-shadow(0 0 3.4rem rgba(255, 63, 164, 0.8)); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "A capa viva",
+    "overview": "A página é a capa de um GTA posta em movimento: painéis de arte oficial separados por um friso roxo-escuro, com cortes levemente inclinados, que batem na tela, se desmontam e deixam cada capítulo nascer de dentro de um deles. Não existe página que rola: existe um palco fixo de uma tela, e a rolagem só avança uma linha do tempo. Tudo é grande, chapado e de alto contraste, porque o resultado é visto pequeno, numa gravação de tela dentro de um reels.\n\nO sistema tem duas matérias e nada além delas. A primeira é a arte oficial da Rockstar, que fornece toda a imagem, toda a luz de pôr do sol e quase toda a cor. A segunda é a estrutura autoral, que é opaca e sem textura: o friso entre painéis, as tarjas de manchete em ameixa e ouro, a placa de rodovia verde com borda branca e etiqueta amarela, a tipografia e o movimento. A primeira direção deste projeto, com cenário vetorial desenhado, foi rejeitada pelo usuário por parecer cartoon e não GTA; por isso a estrutura nunca tenta ser imagem.\n\nO movimento segue a mesma lógica de materiais rígidos: painéis voam, tarjas sobem por trás de uma máscara, persianas abrem, pôsteres são dados como cartas, a placa desce do alto girando. Cada capítulo tem uma entrada só, e nenhuma se repete. As curvas são desaceleradas (`--ease`, expo/power out); o único efeito elástico é o `back.out` de selos e botões que \"carimbam\".",
+    "keyCharacteristics": [
+      "Palco fixo de 120 × 67,5 rem (1920 × 1080 a 16px); somente desktop, sem pontos de quebra.",
+      "Toda imagem é arte oficial; o que é desenhado é só friso, corte, tarja, placa, tipo e movimento.",
+      "Estrutura chapada e opaca: sem textura, sem vidro, sem degradê decorativo.",
+      "Tipo condensado itálico peso 900 em caixa alta para tudo o que grita; Overpass para tudo o que informa.",
+      "Um amarelo de ação sobre um mundo roxo; o verde existe só na placa da contagem.",
+      "Uma entrada de movimento por capítulo, sempre de objeto rígido."
+    ],
+    "rules": [
+      {
+        "name": "A Regra do Verde",
+        "body": "O verde só existe na placa da contagem. Nenhum outro fundo, botão ou tarja usa `sign`; é isso que faz a placa ser reconhecida num relance.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra dos Dois Amarelos",
+        "body": "`gold` pertence ao mundo roxo (cabeçalho, tarjas, marcadores); `tab` pertence à placa verde. Sobre o verde, o amarelo é sempre `tab`.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra do Neon Único",
+        "body": "`neon-pink` acende um letreiro só, o de Leonida. Brilho colorido em qualquer outro texto apaga o efeito.",
+        "section": "colors"
+      },
+      {
+        "name": "A Regra da Caixa Alta Inclinada",
+        "body": "Barlow Condensed aparece sempre em itálico, peso 900 e caixa alta. Não há Barlow reto, leve ou em caixa mista em nenhum lugar.",
+        "section": "typography"
+      },
+      {
+        "name": "A Regra dos Trinta por Cento",
+        "body": "O vídeo é visto a cerca de 30% do tamanho. O menor texto que carrega mensagem tem 1,02rem em peso 800 e caixa alta; frase corrida começa em 1,42rem. Só o aviso legal e a assinatura do rodapé ficam abaixo disso.",
+        "section": "typography"
+      },
+      {
+        "name": "A Regra dos 120 por 67,5",
+        "body": "Toda medida é rem dessa grade ou porcentagem do palco. Nada em px, nada em vw ou vh solto, nenhuma media query de largura.",
+        "section": "layout"
+      },
+      {
+        "name": "A Regra de Uma Tela",
+        "body": "Cada capítulo é uma composição de tela cheia que funciona como miniatura. Nada depende de rolar dentro do capítulo para ser entendido.",
+        "section": "layout"
+      },
+      {
+        "name": "A Regra do Objeto Solto",
+        "body": "Só ganha sombra o que poderia ser pego com a mão: foto, pôster, logotipo, botão. Painel, tarja e placa são a própria superfície e ficam sem sombra.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do usar só arte oficial da Rockstar como imagem, com a origem registrada no README.",
+      "Do separar painéis vizinhos por 1,2rem de `gutter` e tirar um lado de cada painel do esquadro (0,4% a 1,8% do palco).",
+      "Do escrever toda medida em rem da grade de 120 × 67,5 ou em porcentagem do palco.",
+      "Do pôr manchetes sobre arte em tarjas opacas: `plum` com `cream`, depois `gold` com `plum`.",
+      "Do compor títulos em Barlow Condensed itálico 900, caixa alta, entrelinha de 0,84 a 0,86.",
+      "Do usar `tab` para qualquer amarelo sobre a placa verde, e `gold` no resto.",
+      "Do dar sombra difusa, para baixo e com espalhamento negativo, só a foto, pôster, logotipo e botão.",
+      "Do dar a cada capítulo uma entrada própria, de objeto rígido (voar, subir, abrir, carimbar, dar cartas).",
+      "Do manter o aviso de conceito não oficial e a assinatura Chibo Dev no rodapé."
+    ],
+    "donts": [
+      "Don't desenhar cenário, personagem ou ilustração em vetor: a primeira direção fez isso e foi rejeitada como \"cartoon, não GTA\".",
+      "Don't usar `sign` fora da placa da contagem.",
+      "Don't acender `neon-pink` em outro texto além do letreiro de Leonida.",
+      "Don't usar Barlow Condensed reto, leve ou em caixa mista.",
+      "Don't arredondar painéis, tarjas, pôsteres ou fotos; o raio é da placa, da etiqueta, da pílula e do botão.",
+      "Don't pôr sombra em painel, tarja ou placa.",
+      "Don't usar a etiqueta amarela ou o letreiro manuscrito como rótulo genérico acima de títulos; eles são peças da placa e do postal.",
+      "Don't escrever texto que carrega mensagem abaixo de 1,02rem.",
+      "Don't criar pontos de quebra ou versão móvel; o palco é 16:9 por briefing.",
+      "Don't apresentar a página como site oficial da Rockstar nem inventar preço, nota ou número de pré-venda."
+    ]
+  }
+}
